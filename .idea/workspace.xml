@@ -10,12 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb63ddb8-5995-4829-9dff-3ed4a907795a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CropZone-Mobile-Application.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bb63ddb8-5995-4829-9dff-3ed4a907795a" name="Default Changelist" comment="key store file updated." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +32,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -49,8 +50,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639674970760</updated>
-      <workItem from="1639674972093" duration="484000" />
+      <workItem from="1639674972093" duration="1435000" />
     </task>
+    <task id="LOCAL-00001" summary="key store file updated.">
+      <created>1639675656976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639675656976</updated>
+    </task>
+    <task id="LOCAL-00002" summary="key store file updated.">
+      <created>1639675676272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639675676272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,11 +83,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="key store file updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="key store file updated." />
+  </component>
   <component name="WindowStateProjectService">
     <state x="277" y="62" key="SettingsEditor" timestamp="1639675433187">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1639675433187" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1639678978918">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1639678978918" />
     <state x="519" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1639675188039">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
