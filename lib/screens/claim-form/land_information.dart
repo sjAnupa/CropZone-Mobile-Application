@@ -83,8 +83,8 @@ class _LandInformationState extends State<LandInformation> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Name of the Land Plot",
-                            style: TextStyle(fontSize: 16),
+                            "වගා ඉඩම් කොටසෙහි නම",
+                            style: TextStyle(fontSize: 15),
                           ),
                         ),
                       ),
@@ -116,7 +116,7 @@ class _LandInformationState extends State<LandInformation> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Reg. Number",
+                            "ලියාපදිංචි අංකය",
                             style: TextStyle(fontSize: 16),
                           ),
                         ),
@@ -148,8 +148,8 @@ class _LandInformationState extends State<LandInformation> {
                         flex: 1,
                         child: Container(
                           child: Text(
-                            "Address",
-                            style: TextStyle(fontSize: 18),
+                            "ඉඩමෙහි ලිපිනය",
+                            style: TextStyle(fontSize: 16),
                           ),
                         ),
                       ),
@@ -182,8 +182,8 @@ class _LandInformationState extends State<LandInformation> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Area of the Land",
-                            style: TextStyle(fontSize: 16),
+                            "ඉඩමෙහි වපසරිය\n(අක්කර)",
+                            style: TextStyle(fontSize: 15),
                           ),
                         ),
                       ),
@@ -215,8 +215,8 @@ class _LandInformationState extends State<LandInformation> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Area of crop cultivated",
-                            style: TextStyle(fontSize: 16),
+                            "වගා කර ඇති ඉඩම් කොටසේ ප්‍රමාණය\n(අක්කර)",
+                            style: TextStyle(fontSize: 14),
                           ),
                         ),
                       ),
@@ -248,8 +248,8 @@ class _LandInformationState extends State<LandInformation> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "I own this land",
-                            style: TextStyle(fontSize: 16),
+                            "ඉඩමෙහි අයිතිකාරිත්වට මට හිමිය",
+                            style: TextStyle(fontSize: 15),
                           ),
                         ),
                       ),
@@ -280,7 +280,7 @@ class _LandInformationState extends State<LandInformation> {
                         flex: 1,
                         child: Container(
                           child: Text(
-                            "Photo of deed",
+                            "ඉඩම්හිමිගේ ඡායාරූපය",
                             style: TextStyle(fontSize: 16),
                           ),
                         ),

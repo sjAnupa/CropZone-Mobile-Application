@@ -81,8 +81,8 @@ class _PersonalInformationState extends State<PersonalInformation> {
                           flex: 1,
                           child: Container(
                               child: Text(
-                            "Full Name",
-                            style: TextStyle(fontSize: 18),
+                            "සම්පූර්ණ නම",
+                            style: TextStyle(fontSize: 16),
                           ))),
                       Expanded(
                           flex: 2,
@@ -113,8 +113,8 @@ class _PersonalInformationState extends State<PersonalInformation> {
                         flex: 1,
                         child: Container(
                           child: Text(
-                            "NIC",
-                            style: TextStyle(fontSize: 18),
+                            "ජා. හැදුනුම්පත",
+                            style: TextStyle(fontSize: 16),
                           ),
                         ),
                       ),
@@ -154,8 +154,8 @@ class _PersonalInformationState extends State<PersonalInformation> {
                           flex: 1,
                           child: Container(
                               child: Text(
-                            "Address",
-                            style: TextStyle(fontSize: 18),
+                            "ලිපිනය",
+                            style: TextStyle(fontSize: 16),
                           ))),
                       Expanded(
                         flex: 2,
@@ -185,8 +185,8 @@ class _PersonalInformationState extends State<PersonalInformation> {
                           flex: 1,
                           child: Container(
                               child: Text(
-                            "Grama Niladhari division",
-                            style: TextStyle(fontSize: 16),
+                            "ග්‍රාමනිලධාරී වසම",
+                            style: TextStyle(fontSize: 15),
                           ))),
                       Expanded(
                         flex: 2,
@@ -215,8 +215,8 @@ class _PersonalInformationState extends State<PersonalInformation> {
                         flex: 1,
                         child: Container(
                           child: Text(
-                            "Photo of NIC",
-                            style: TextStyle(fontSize: 16),
+                            "ජා. හැදුනුම්පතෙහි ඡායාරූපය",
+                            style: TextStyle(fontSize: 15),
                           ),
                         ),
                       ),

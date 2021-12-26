@@ -53,8 +53,8 @@ class _EstimationPageState extends State<EstimationPage> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Crop",
-                            style: TextStyle(fontSize: 16),
+                            "බෝගයෙහි නම",
+                            style: TextStyle(fontSize: 15),
                           ),
                         ),
                       ),
@@ -86,8 +86,8 @@ class _EstimationPageState extends State<EstimationPage> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Cause of Damage",
-                            style: TextStyle(fontSize: 16),
+                            "වගා හානිය සිදු වූ ආකාරය",
+                            style: TextStyle(fontSize: 15),
                           ),
                         ),
                       ),
@@ -119,8 +119,8 @@ class _EstimationPageState extends State<EstimationPage> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Incident date",
-                            style: TextStyle(fontSize: 16),
+                            "සිදුවූ දිනය",
+                            style: TextStyle(fontSize: 15),
                           ),
                         ),
                       ),
@@ -156,8 +156,8 @@ class _EstimationPageState extends State<EstimationPage> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Expected yield prior incident",
-                            style: TextStyle(fontSize: 16),
+                            "හානිය සිදුවීමට පෙර අස්වැන්න\n(අක්කරයට)",
+                            style: TextStyle(fontSize: 15),
                           ),
                         ),
                       ),
@@ -192,8 +192,8 @@ class _EstimationPageState extends State<EstimationPage> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Yield Expected month",
-                            style: TextStyle(fontSize: 16),
+                            "අස්වනු මාසය",
+                            style: TextStyle(fontSize: 15),
                           ),
                         ),
                       ),
@@ -260,8 +260,8 @@ class _EstimationPageState extends State<EstimationPage> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Damaged Area",
-                            style: TextStyle(fontSize: 16),
+                            "විනාශ වූ වගා ප්‍රමාණය\n(අක්කර)",
+                            style: TextStyle(fontSize: 15),
                           ),
                         ),
                       ),
@@ -293,8 +293,8 @@ class _EstimationPageState extends State<EstimationPage> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Your Estimation of damage",
-                            style: TextStyle(fontSize: 16),
+                            "විනාශ වූ වගාවේ වටිනාකම \n(ඔබගේ තක්සේරුව)",
+                            style: TextStyle(fontSize: 14),
                           ),
                         ),
                       ),
@@ -329,8 +329,8 @@ class _EstimationPageState extends State<EstimationPage> {
                         child: Container(
                           padding: EdgeInsets.only(right: 10),
                           child: Text(
-                            "Comment",
-                            style: TextStyle(fontSize: 16),
+                            "වැඩි විස්තර",
+                            style: TextStyle(fontSize: 15),
                           ),
                         ),
                       ),
